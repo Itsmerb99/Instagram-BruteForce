@@ -27,7 +27,7 @@ print('''
                             "F3  $r
                            $$$$.e$"  .
                            "$$$$$"   "
-     (insTof by 6)           $$$$c  /
+                            $$$$c  /
         .                   $$$$$$$P
        ."c                      $$$
       .$c3b                  ..J$$$$$e
@@ -35,8 +35,8 @@ print('''
        $$$$b           .$$$$$$$$$$$$$$$$r
           $$$.        .$$$$$$$$$$$$$$$$$$
            $$$c      .$$$$$$$  "$$$$$$$$$r
-Author   : Falah
-snapchat : flaah999
+Author   : RazzorBack
+Telegram : https://t.me/local_heart
 depend on vpn. Please use it before running the tool or providing a proxy file           """"""""""""""""""""""""""""""""""""""""""
 ''')
 
