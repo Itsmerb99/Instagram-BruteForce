@@ -11,16 +11,16 @@ Instagram brute force working in new format 2021, proxy added ^-* , open source,
 
 ## Legal disclaimer:
 
-Usage of insTof for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
+Usage of insta for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
 ![tweet](https://steamuserimages-a.akamaihd.net/ugc/943951547336911675/8FC1DADCBAF77B83508E1E203373F3EEFF9D7DF9/)
 
 
 ## Getting Started
-1. ```git clone https://github.com/0xfff0800/Brute-force-Instagram-2021.git```
+1. ```git clone https://github.com/Itsmerb99/Instagram-BruteForce.git```
 2. ```pip3 install colorama```
-3. ```cd Brute-force-Instagram-2021```
-4. ```python3 insTof6.py```
+3. ```cd Instagram-BruteForce```
+4. ```python3 insta.py```
 
 
 ## A Kali Linux operating system. We recommend :
